@@ -3,7 +3,7 @@ project:
   output-dir: _site
 
 website:
-  title: "DS Actions Demo"
+  title: "Hello World!"
   navbar:
     left:
       - href: docs/index.qmd
